@@ -1,8 +1,8 @@
 # Maze Solver  
 ## About  
-A short program which solves mazes using various algorithms and written
-in Rust. It is adapted from Dr. Mike Pound's [video](https://www.youtube.com/watch?v=rop0W4QDOUI)
-for Computerphile and Python [code](https://github.com/mikepound/mazesolving).
+A short program which solves mazes using various algorithms, written
+in Rust. It is adapted from Dr. Mike Pound's Computerphile [video](https://www.youtube.com/watch?v=rop0W4QDOUI)
+and Python [code](https://github.com/mikepound/mazesolving).
 My goal with this project was to practice using the Rust language and reacquaint myself with search algorithms.
 
 ## Build  
