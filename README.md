@@ -1,21 +1,21 @@
-#Maze Solver
-##About
+# Maze Solver  
+## About  
 A short program which solves mazes using various algorithms and written
 in Rust. It is adapted from Dr. Mike Pound's [video](https://www.youtube.com/watch?v=rop0W4QDOUI)
 for Computerphile and Python [code](https://github.com/mikepound/mazesolving).
 My goal with this project was to practice using the Rust language and reacquaint myself with search algorithms.
 
-##Build
+## Build  
 Assuming Rust's build tool and package manager, Cargo, is already
 installed:  
 1. clone repository  
 2. change directory to the cloned repository  
 3. run 'cargo build' in the repository directory  
 
-##Run
+## Run  
 maze_solver input \[-a algorithm\] \[-o output directory\]
 
-##Input
+## Input  
 Taken from Dr. Pound's documentation:  
 - Each maze is black and white. White represents paths, black represents
   walls.  
