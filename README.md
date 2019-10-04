@@ -26,7 +26,7 @@ installed:
 
 1. clone repository
 2. change directory to the cloned repository
-3. run 'cargo build' in the repository directory
+3. run 'cargo build --release' in the repository directory
 
 ## Run
 
